@@ -1,0 +1,54 @@
+---
+title: "Amy Peterson, MPH Candidate"
+output:
+  html_document:
+    theme: sandstone
+    toc: true
+    toc_depth: 3
+    toc_float: true
+---
+
+
+## About
+
+I am a current Master of Public Health Candidate at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu), concentrating in Biostatistics and Epidemiology, graduating in May 2018.  
+
+During my program at JHSPH, I have been an Intern at the [Lieber Institute for Brain Development](https://www.libd.org), and a member of [Andrew Jaffe](http://aejaffe.com)'s lab, advised by [Leonardo Collado-Torres](http://lcolladotor.github.io). I am also a member of and contributor to [LIBD Rstats Club](http://research.libd.org/rstatsclub/). 
+
+Prior to the MPH program, I was a Research Analyst in [David Montefiori](https://dhvi.duke.edu/montefiori-david-charles)'s lab, the [Laboratory for AIDS Vaccine Research and Development](https://surgery.duke.edu/divisions/surgical-sciences/research/research-laboratories/laboratory-aids-research-and-development) at [Duke University Medical Center, Department of Surgery](https://surgery.duke.edu) from 2012 to 2017. I graduated from [Boston University](http://www.bu.edu) in 2012, majoring in [Neuroscience](http://www.bu.edu/neuro/undergraduate/).  
+
+## Interests
+
+* Clinical Research
+* R programming 
+* Biostatistics
+
+## JHSPH 2017-2018
+
+### Projects
+
+* Worked in collaboration with [Mina Ryten](http://www.ucl.ac.uk/ukpdc/research-groups/neurogenomics-group/mina-ryten)'s lab at [University College London's Institute of Neurology](https://www.ucl.ac.uk/ion/) to analyze [Genotype-Tissue Expression (GTEx)](https://www.gtexportal.org/) project data to explore gene expression variability across brain regions
+    - Analyzed GTEx brain samples from [recount2](http://bioconductor.org/packages/recount) using [recount.bwtool](https://github.com/LieberInstitute/recount.bwtool) with [JHPCE](https://jhpce.jhu.edu), a high-performance computing environment
+* Capstone: Applying Statistical Correction for Brain Tissue Degradation to Gene Expression in Schizophrenia 
+    - Analyzed postmortem human brain RNA-sequencing data in [R](https://cran.r-project.org) using [Bioconductor](https://www.bioconductor.org) packages with [JHPCE](https://jhpce.jhu.edu)
+
+### Presentations
+
+* Presented "Postmortem Human Brain RNA-seq Analyses with Public and Private Data" at Delta Omega Poster Competition at JHPSH [PDF](files/Peterson Poster.pdf) (February 28, 2018).
+* Presented "Expression Profiles in GTEx Data" at the [Leekgroup](http://jtleek.com/members.html) meeting (February 19, 2018).
+
+
+
+## Profiles 
+
+* [LinkedIn](https://www.linkedin.com/in/amy-peterson-6143ba137/)
+* [GitHub](http://github.com/amy-peterson)
+
+## Contact
+
+* [amy.peterson@jhu.edu](mailto:amy.peterson@jhu.edu)
+
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=hnA7HWDcygUV__H-Pg5Npl9yDzHZ983W1TmLzj1XMf8'></script>
+
