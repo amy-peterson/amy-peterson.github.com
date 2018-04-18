@@ -6,6 +6,7 @@ output:
     toc: true
     toc_depth: 3
     toc_float: true
+    self_contained: false
 ---
 
 
@@ -15,7 +16,7 @@ I am a current Master of Public Health Candidate at [Johns Hopkins Bloomberg Sch
 
 During my program at JHSPH, I have been an Intern at the [Lieber Institute for Brain Development](https://www.libd.org), and a member of [Andrew Jaffe](http://aejaffe.com)'s lab, advised by [Leonardo Collado-Torres](http://lcolladotor.github.io). I am also a member of and contributor to [LIBD Rstats Club](http://research.libd.org/rstatsclub/). 
 
-Prior to the MPH program, I was a Research Analyst in [David Montefiori](https://dhvi.duke.edu/montefiori-david-charles)'s lab, the [Laboratory for AIDS Vaccine Research and Development](https://surgery.duke.edu/divisions/surgical-sciences/research/research-laboratories/laboratory-aids-research-and-development) at [Duke University Medical Center, Department of Surgery](https://surgery.duke.edu) from 2012 to 2017. I graduated from [Boston University](http://www.bu.edu) in 2012, majoring in [Neuroscience](http://www.bu.edu/neuro/undergraduate/).  
+Prior to the MPH program, I was a Research Analyst in [David Montefiori](https://dhvi.duke.edu/montefiori-david-charles)'s lab, the [Laboratory for AIDS Vaccine Research and Development](https://surgery.duke.edu/divisions/surgical-sciences/research/research-laboratories/laboratory-aids-research-and-development) at [Duke University Medical Center, Department of Surgery](https://surgery.duke.edu) from 2012 to 2017. I graduated from [Boston University](http://www.bu.edu) in 2012, with a BA in [Neuroscience](http://www.bu.edu/neuro/undergraduate/).  
 
 ## Interests
 
@@ -44,11 +45,12 @@ Prior to the MPH program, I was a Research Analyst in [David Montefiori](https:/
 * [LinkedIn](https://www.linkedin.com/in/amy-peterson-6143ba137/)
 * [GitHub](http://github.com/amy-peterson)
 
+
+![](http://ghchart.rshah.org/DA2536/amy-peterson.svg){width=400px}
+
 ## Contact
 
 * [amy.peterson@jhu.edu](mailto:amy.peterson@jhu.edu)
 
-
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=hnA7HWDcygUV__H-Pg5Npl9yDzHZ983W1TmLzj1XMf8'></script>
+<a href='https://clustrmaps.com/site/1a5cd'  title='Visit tracker'><img src='http://clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=hnA7HWDcygUV__H-Pg5Npl9yDzHZ983W1TmLzj1XMf8'/></a>
 
