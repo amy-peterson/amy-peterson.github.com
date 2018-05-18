@@ -35,6 +35,7 @@ Prior to the MPH program, I was a Research Analyst in [David Montefiori](https:/
 
 ### Presentations
 
+* MPH Capstone Presentation "Applying Statistical Correction for Brain Tissue RNA Degradation to Gene Expression Differences in Schizophrenia" (May 4, 2018) [slides](https://speakerdeck.com/apeterson/rna-quality-degradation).
 * Presented "Postmortem Human Brain RNA-seq Analyses with Public and Private Data" at Delta Omega Poster Competition at JHPSH [PDF](files/Peterson Poster.pdf) (February 28, 2018).
 * Presented "Expression Profiles in GTEx Data" at the [Leekgroup](http://jtleek.com/members.html) meeting (February 19, 2018).
 
