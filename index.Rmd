@@ -1,5 +1,5 @@
 ---
-title: "Amy Peterson, MPH Candidate"
+title: "Amy Peterson"
 output:
   html_document:
     theme: sandstone
@@ -12,17 +12,19 @@ output:
 
 ## About
 
-I am a current Master of Public Health Candidate at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu), concentrating in Biostatistics and Epidemiology, graduating in May 2018.  
+I have been a Data Science Content Developer at [DataCamp](https://www.datacamp.com) since June 2018.
 
-During my program at JHSPH, I have been an Intern at the [Lieber Institute for Brain Development](https://www.libd.org), and a member of [Andrew Jaffe](http://aejaffe.com)'s lab, advised by [Leonardo Collado-Torres](http://lcolladotor.github.io). I am also a member of and contributor to [LIBD Rstats Club](http://research.libd.org/rstatsclub/). 
+Before that, I attended [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu) and graduated in May 2018 with a Master of Public Health, concentrating in Biostatistics and Epidemiology.  
+
+During my program at JHSPH, I was an Intern at the [Lieber Institute for Brain Development](https://www.libd.org), and a member of [Andrew Jaffe](http://aejaffe.com)'s lab, advised by [Leonardo Collado-Torres](http://lcolladotor.github.io). I am also a member of and contributor to [LIBD Rstats Club](http://research.libd.org/rstatsclub/). 
 
 Prior to the MPH program, I was a Research Analyst in [David Montefiori](https://dhvi.duke.edu/montefiori-david-charles)'s lab, the [Laboratory for AIDS Vaccine Research and Development](https://surgery.duke.edu/divisions/surgical-sciences/research/research-laboratories/laboratory-aids-research-and-development) at [Duke University Medical Center, Department of Surgery](https://surgery.duke.edu) from 2012 to 2017. I graduated from [Boston University](http://www.bu.edu) in 2012, with a BA in [Neuroscience](http://www.bu.edu/neuro/undergraduate/).  
 
 ## Interests
 
-* Clinical Research
 * R programming 
 * Biostatistics
+* Clinical Research
 
 ## JHSPH 2017-2018
 
